@@ -317,7 +317,7 @@ In all cases where a seal is necessary by law to any commission, process, or oth
     <tr>
         <td>201.</td>
         <td>Publication and distribution of Code of Laws of United States and Supplements and District of Columbia Code and Supplements.<br />
-        (a)  Publishing in slip or pamphlet form or in Statutes at Large.</br>
+        (a)  Publishing in slip or pamphlet form or in Statutes at Large.<br />
         (b)  Curtailing number of copies published.<br />
         (c)  Dispensing with publication of more than one Supplement for each Congress.</td>
     </tr>
