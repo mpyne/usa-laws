@@ -125,7 +125,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 (b) The flag should not be draped over the hood, top, sides, or back of a vehicle or of a railroad train or a boat. When the flag is displayed on a motorcar, the staff shall be fixed firmly to the chassis or clamped to the right fender.
 
-(c) No other flag or pennant should be placed above or, if on the same level, to the right of the flag of the United States of America, except during church services conducted by naval chaplains at sea, when the church pennant may be flown above the flag during church services for the personnel of the Navy. No person shall display the flag of the United Nations or any other national or international flag equal, above, or in a position of superior prominence or honor to, or in place of, the flag of the United States at any place within the United States or any Territory or possession thereof: Provided, That nothing in this section shall make unlawful the continuance of the practice heretofore followed of displaying the flag of the United Nations in a position of superior prominence or honor, and other national flags in positions of equal prominence or honor, with that of the flag of the United States at the headquarters of the United Nations.
+(c) No other flag or pennant should be placed above or, if on the same level, to the right of the flag of the United States of America, except during church services conducted by naval chaplains at sea, when the church pennant may be flown above the flag during church services for the personnel of the Navy. No person shall display the flag of the United Nations or any other national or international flag equal, above, or in a position of superior prominence or honor to, or in place of, the flag of the United States at any place within the United States or any Territory or possession thereof: _Provided_, That nothing in this section shall make unlawful the continuance of the practice heretofore followed of displaying the flag of the United Nations in a position of superior prominence or honor, and other national flags in positions of equal prominence or honor, with that of the flag of the United States at the headquarters of the United Nations.
 
 (d) The flag of the United States of America, when it is displayed with another flag against a wall from crossed staffs, should be on the right, the flag's own right, and its staff should be in front of the staff of the other flag.
 
@@ -631,21 +631,21 @@ In sections 116 through 126 of this title:
 
   * (A) In general.—The term “customer” means—
 
-    * (i) the person or entity that contracts with the home service provider for mobile telecommunications services; or
+     * (i) the person or entity that contracts with the home service provider for mobile telecommunications services; or
 
-    * (ii) if the end user of mobile telecommunications services is not the contracting party, the end user of the mobile telecommunications service, but this clause applies only for the purpose of determining the place of primary use.
+     * (ii) if the end user of mobile telecommunications services is not the contracting party, the end user of the mobile telecommunications service, but this clause applies only for the purpose of determining the place of primary use.
 
   * (B) The term “customer” does not include—
 
-    * (i) a reseller of mobile telecommunications service; or
+     * (i) a reseller of mobile telecommunications service; or
 
-    * (ii) a serving carrier under an arrangement to serve the customer outside the home service provider's licensed service area.
+     * (ii) a serving carrier under an arrangement to serve the customer outside the home service provider's licensed service area.
 
 * (3) Designated database provider.—The term “designated database provider” means a corporation, association, or other entity representing all the political subdivisions of a State that is—
 
-    * (A) responsible for providing an electronic database prescribed in section 119(a) if the State has not provided such electronic database; and
+  * (A) responsible for providing an electronic database prescribed in section 119(a) if the State has not provided such electronic database; and
 
-    * (B) approved by municipal and county associations or leagues of the State whose responsibility it would otherwise be to provide such database prescribed by sections 116 through 126 of this title.
+  * (B) approved by municipal and county associations or leagues of the State whose responsibility it would otherwise be to provide such database prescribed by sections 116 through 126 of this title.
 
 * (4) Enhanced zip code.—The term “enhanced zip code” means a United States postal zip code of 9 or more digits.
 
