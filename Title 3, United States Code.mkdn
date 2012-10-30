@@ -410,7 +410,7 @@ Sums appropriated under this subsection for expenses described in paragraphs (2)
 
   * (C) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5; and
 
-(2) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level III of the Executive Schedule of section 5314 of title 5.
+* (2) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level III of the Executive Schedule of section 5314 of title 5.
 
 (b)(1) In order to enable the Office of Administration to perform its functions, the President (or his designee) is authorized—
 
@@ -752,10 +752,10 @@ The following laws shall apply, as prescribed by this chapter, to all employing 
   * (A) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
 
   * (B) except that the President or designee may, at the discretion of the President or designee, issue regulations to implement a provision of section 717 of the Civil Rights Act of 1964 or section 501 of the Rehabilitation Act of 1973 that applies to employees in the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in paragraph (1) or (3) of subsection (a) or paragraph (1) or (3) of subsection (b), if the issuance of such regulations—
+  
+     * (i) would be equally effective for the implementation of the rights and protections under this section; and
 
-      * (i) would be equally effective for the implementation of the rights and protections under this section; and
-
-      * (ii) would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.
+     * (ii) would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.
 
 (e) Applicability.—Subsections (a) through (c), and section 417 (to the extent that it relates to any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
 
