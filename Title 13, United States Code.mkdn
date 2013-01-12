@@ -1,0 +1,516 @@
+# TITLE 13—CENSUS
+
+<table border="0">
+    <tr>
+        <td><small>Chap.</small></td>
+        <td></td>
+        <td align="right"><small>Sec.</small></td>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Administration</td>
+        <td align="right">1</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Collection and Publication of Statistics</td>
+        <td align="right">41</td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td>Censuses</td>
+        <td align="right">131</td>
+    </tr>
+    <tr>
+        <td>7.</td>
+        <td>Offenses and Penalties</td>
+        <td align="right">211</td>
+    </tr>
+    <tr>
+        <td>9.</td>
+        <td>Collection and Publication of Foreign Trade Statistics</td>
+        <td align="right">301</td>
+    </tr>
+    <tr>
+        <td>10.</td>
+        <td>Exchange of census information</td>
+        <td align="right">401</td>
+    </tr>
+</table>
+
+### CHAPTER 1—ADMINISTRATION
+
+#### SUBCHAPTER I—GENERAL PROVISIONS
+<table border="0">
+    <tr>
+        <td><small>Sec.</small></td>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Definitions.</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Bureau of the Census.</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Seal.</td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>Functions of Secretary; regulations; delegation.</td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td>Questionnaires; number, form, and scope of inquiries.</td>
+    </tr>
+    <tr>
+        <td>6.</td>
+        <td>Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources.</td>
+    </tr>
+    <tr>
+        <td>7.</td>
+        <td>Printing; requisitions upon Public Printer; publication of bulletins and reports.</td>
+    </tr>
+    <tr>
+        <td>8.</td>
+        <td>Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received.</td>
+    </tr>
+    <tr>
+        <td>9.</td>
+        <td>Information as confidential; exception.</td>
+    </tr>
+    <tr>
+        <td>10.</td>
+        <td>Mail matter.</td>
+    </tr>
+    <tr>
+        <td>11.</td>
+        <td>Authorization of appropriations.</td>
+    </tr>
+    <tr>
+        <td>12.</td>
+        <td>Mechanical and electronic development.</td>
+    </tr>
+    <tr>
+        <td>13.</td>
+        <td>Procurement of professional services.</td>
+    </tr>
+    <tr>
+        <td>15.</td>
+        <td>Leases for 1980 decennial census.</td>
+    </tr>
+    <tr>
+        <td>16.</td>
+        <td>Address information reviewed by local governments.</td>
+    </tr>
+</table>
+
+#### SUBCHAPTER II—OFFICERS AND EMPLOYEES
+<table border="0">
+    <tr>
+        <td>21.</td>
+        <td>Director of the Census; duties.</td>
+    </tr>
+    <tr>
+        <td>22.</td>
+        <td>Qualifications of permanent personnel.</td>
+    </tr>
+    <tr>
+        <td>23.</td>
+        <td>Additional officers and employees.</td>
+    </tr>
+    <tr>
+        <td>24.</td>
+        <td>Special agents, supervisors, supervisors’ clerks, enumerators, and interpreters; compensation; details.</td>
+    </tr>
+    <tr>
+        <td>25.</td>
+        <td>Duties of supervisors, enumerators, and other employees.</td>
+    </tr>
+    <tr>
+        <td>26.</td>
+        <td>Transportation by contract.</td>
+    </tr>
+</table>
+
+### SUBCHAPTER I—GENERAL PROVISIONS
+
+### §1. Definitions
+
+As used in this title, unless the context requires another meaning or unless it is otherwise provided—
+
+* (1) “Bureau” means the Bureau of the Census;
+
+* (2) “Secretary” means the Secretary of Commerce; and
+
+* (3) “respondent” includes a corporation, company, association, firm, partnership, proprietorship, society, joint stock company, individual, or other organization or entity which reported information, or on behalf of which information was reported, in response to a questionnaire, inquiry, or other request of the Bureau.
+
+### §2. Bureau of the Census
+
+The Bureau is continued as an agency within, and under the jurisdiction of, the Department of Commerce.
+
+### §3. Seal
+
+The Bureau shall have a seal containing such device as has been selected heretofore, or as the Secretary may select hereafter. A description of such seal with an impression thereof shall be filed in the office of the Secretary of State. The seal shall remain in the custody of the Secretary or such officer or employee of the Bureau as he designates, and shall be affixed to all documents authenticated by the Bureau. Judicial notice shall be taken of the seal.
+
+### §4. Functions of Secretary; regulations; delegation
+
+The Secretary shall perform the functions and duties imposed upon him by this title, may issue such rules and regulations as he deems necessary to carry out such functions and duties, and may delegate the performance of such functions and duties and the authority to issue such rules and regulations to such officers and employees of the Department of Commerce as he may designate.
+
+### §5. Questionnaires; number, form, and scope of inquiries
+
+The Secretary shall prepare questionnaires, and shall determine the inquiries, and the number, form, and subdivisions thereof, for the statistics, surveys, and censuses provided for in this title.
+
+### §6. Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources
+
+(a) The Secretary, whenever he considers it advisable, may call upon any other department, agency, or establishment of the Federal Government, or of the government of the District of Columbia, for information pertinent to the work provided for in this title.
+
+(b) The Secretary may acquire, by purchase or otherwise, from States, counties, cities, or other units of government, or their instrumentalities, or from private persons and agencies, such copies of records, reports, and other material as may be required for the efficient and economical conduct of the censuses and surveys provided for in this title.
+
+(c) To the maximum extent possible and consistent with the kind, timeliness, quality and scope of the statistics required, the Secretary shall acquire and use information available from any source referred to in subsection (a) or (b) of this section instead of conducting direct inquiries.
+
+### §7. Printing; requisitions upon Public Printer; publication of bulletins and reports
+
+The Secretary may make requisition upon the Public Printer for miscellaneous printing necessary to carry out the provisions of this title. He may further have printed by the Public Printer, in such editions as he deems necessary, preliminary and other census bulletins, and final reports of the results of the several investigations authorized by this title, and may publish and distribute such bulletins and reports.
+
+### §8. Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received
+
+(a) The Secretary may, upon written request, furnish to any respondent, or to the heir, successor, or authorized agent of such respondent, authenticated transcripts or copies of reports (or portions thereof) containing information furnished by, or on behalf of, such respondent in connection with the surveys and census provided for in this title, upon payment of the actual or estimated cost of searching the records and furnishing such transcripts or copies.
+
+(b) Subject to the limitations contained in sections 6(c) and 9 of this title, the Secretary may furnish copies of tabulations and other statistical materials which do not disclose the information reported by, or on behalf of, any particular respondent, and may make special statistical compilations and surveys, for departments, agencies, and establishments of the Federal Government, the government of the District of Columbia, the government of any possession or area (including political subdivisions thereof) referred to in section 191(a) of this title, State or local agencies, or other public and private persons and agencies, upon payment of the actual or estimated cost of such work. In the case of nonprofit agencies or organizations, the Secretary may engage in joint statistical projects, the purpose of which are otherwise authorized by law, but only if the cost of such projects are shared equitably, as determined by the Secretary.
+
+(c) In no case shall information furnished under this section be used to the detriment of any respondent or other person to whom such information relates, except in the prosecution of alleged violations of this title.
+
+(d) All moneys received in payment for work or services enumerated under this section shall be deposited in a separate account which may be used to pay directly the costs of such work or services, to repay appropriations which initially bore all or part of such costs, or to refund excess sums when necessary.
+
+### §9. Information as confidential; exception
+
+(a) Neither the Secretary, nor any other officer or employee of the Department of Commerce or bureau or agency thereof, or local government census liaison, may, except as provided in section 8 or 16 or chapter 10 of this title or section 210 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 or section 2(f) of the Census of Agriculture Act of 1997—
+
+* (1) use the information furnished under the provisions of this title for any purpose other than the statistical purposes for which it is supplied; or
+
+* (2) make any publication whereby the data furnished by any particular establishment or individual under this title can be identified; or
+
+* (3) permit anyone other than the sworn officers and employees of the Department or bureau or agency thereof to examine the individual reports.
+
+No department, bureau, agency, officer, or employee of the Government, except the Secretary in carrying out the purposes of this title, shall require, for any reason, copies of census reports which have been retained by any such establishment or individual. Copies of census reports which have been so retained shall be immune from legal process, and shall not, without the consent of the individual or establishment concerned, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
+
+(b) The provisions of subsection (a) of this section relating to the confidential treatment of data for particular individuals and establishments, shall not apply to the censuses of governments provided for by subchapter III of chapter 5 of this title, nor to interim current data provided for by subchapter IV of chapter 5 of this title as to the subjects covered by censuses of governments, with respect to any information obtained therefor that is compiled from, or customarily provided in, public records.
+
+### §11. Authorization of appropriations
+
+There is authorized to be appropriated, out of the Treasury of the United States, such sums as may be necessary to carry out all provisions of this title.
+
+### §12. Mechanical and electronic development
+
+The Secretary is authorized to have conducted mechanical and electronic development work as he determines is needed to further the functions and duties of carrying out the purposes of this title and may enter into such developmental contracts as he may determine to be in the best interest of the Government.
+
+### §13. Procurement of professional services
+
+The Secretary shall have authority to contract with educational and other research organizations for the preparation of monographs and other reports and materials of a similar nature.
+
+### §15. Leases for 1980 decennial census
+
+The 15 percent limitation contained in section 322 of the Act of June 30, 1932 (47 Stat. 412) shall not apply to leases entered into by the Secretary for the purpose of carrying out the 1980 decennial census, but no lease may be entered into for such purpose at a rental in excess of 105 percent of the appraised fair annual rental of the leased premises, or a proportionate part of the appraised fair annual rental in the case of a lease for less than a year.
+
+### §16. Address information reviewed by States and local governments
+
+(a) The Secretary, to assist efforts to ensure the accuracy of censuses and surveys under this title, shall—
+
+* (1) publish standards defining the content and structure of address information which States and local units of general purpose government may submit to the Secretary to be used in developing a national address list;
+
+* (2)(A) develop and publish a timetable for the Bureau to receive, review, and respond to submissions of information under paragraph (1) before the decennial census date; and
+
+* (B) provide for a response by the Bureau with respect to such submissions in which the Bureau specifies its determinations regarding such information and the reasons for such determinations; and
+
+* (3) be subject to the review process developed under section 3 of the Census Address List Improvement Act of 1994 relating to responses pursuant to paragraph (2).
+
+(b)(1) The Secretary—
+
+* (A) shall provide officials who are designated as census liaisons by a local unit of general purpose government with access to census address information for the purpose of verifying the accuracy of the address information of the Bureau for census and survey purposes; and
+
+* (B) together with such access, should provide an explanation of duties and obligations under this title.
+
+(2) Access under paragraph (1) shall be limited to address information concerning addresses within the local unit of general purpose government represented by the census liaison or an adjacent local unit of general purpose government.
+
+(3) The Bureau should respond to each recommendation made by a census liaison concerning the accuracy of address information, including the determination (and reasons therefor) of the Bureau regarding each such recommendation.
+
+(4) For the purposes of paragraph (1), in a case in which a local unit of general purpose government is within another local unit of general purpose government and is not independent of the enclosing unit, the census liaison shall be designated by the local unit of general purpose government which is within the enclosing local unit of general purpose government.
+
+(5) A census liaison may not use information made available under paragraph (1) for any purpose other than the purpose specified in paragraph (1).
+
+(c) For the purposes of this section—
+
+* (1) the term “local unit of general purpose government” has the meaning given such term by section 184(1) of this title; and
+
+* (2) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
+
+### SUBCHAPTER II—OFFICERS AND EMPLOYEES
+
+### §21. Director of the Census; duties
+
+The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate. The Director shall perform such duties as may be imposed upon him by law, regulations, or orders of the Secretary.
+
+### §22. Qualifications of permanent personnel
+
+All permanent officers and employees of the Bureau shall be citizens of the United States.
+
+### §23. Additional officers and employees
+
+(a) The Secretary may establish, at rates of compensation to be fixed by him without regard to the Classification Act of 1949, as many temporary positions as may be necessary to meet the requirements of the work provided for by law. Bureau employees who are transferred to any such temporary positions shall not lose their permanent civil service status by reason of the transfer. The Secretary may make appointments to such temporary positions in conformity with the civil service laws and rules.
+
+(b) In addition to employees of the Department of Commerce, employees of other departments and independent offices of the Government may, with the consent of the head of the respective department or office, be employed and compensated for field work in connection with the work provided for by law without regard to section 301 of the Dual Compensation Act.
+
+(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees of private organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
+
+### §24. Special employment provisions
+
+(a) The Secretary may utilize the services of nontemporary employees of the Bureau (by assignment, promotion, appointment, detail, or otherwise) in temporary positions established for any census, for not to exceed the period during which appropriations are available for that census. Whenever the Secretary determines that the services of an employee which have been utilized under this section are no longer required in such a temporary position, he may, without regard to the provisions of any other law, return the employee to a continuing position, with rank and compensation not less than that which he held in his last permanent position in the Bureau: Provided, That no employee shall, by reason of his service in a temporary position under this subsection, lose the protection of any law or regulation with respect to his separation, suspension, furlough, or reduction in rank or compensation below the level held in his last permanent position in the Bureau. Service by a nontemporary employee in a temporary position under this subsection shall be creditable for step-increases (both periodic and longevity) under title VII of the Classification Act of 1949, as amended, as though it were a continuation of service in his last permanent position.
+
+(b) As used in this title with respect to appointments or positions, “temporary” shall be construed to mean not in excess of one year, or not in excess of the specific period during which appropriations are available for the conduct of a particular census, whichever is longer. No employee of the Bureau who holds only a temporary appointment within the meaning of this section shall be considered as other than strictly temporary for purposes of any other provision of law relating to separations, suspensions, or reductions in rank or compensation.
+
+(c) The enlisted men and officers of the uniformed services may be appointed and compensated for service in temporary enumerator positions for the enumeration of personnel of the uniformed services.
+
+(d) The Secretary may fix compensation on a piece-price basis without limitation as to the amount earned per diem, and payments may be made to enumerators for the use of private automobiles on official business without regard to section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), but at rates not in excess of the rates provided by that Act.
+
+(e) The Secretary may authorize the expenditure of necessary sums for travel expenses of persons selected for appointment for attendance at training courses held by the Department of Commerce with respect to any of the work provided for by law.
+
+(f) Notwithstanding any other provision of law prohibiting the expenditure of public money for telephone service, the Secretary, under such regulations as he shall prescribe, may authorize reimbursement for tolls or charges for telephone service from private residences or private apartments to the extent such charges are determined by the Secretary to have been incurred to facilitate the collection of information in connection with the censuses and surveys authorized by this title.
+
+### §25. Duties of supervisors, enumerators, and other employees
+
+(a) Each supervisor shall perform the duties imposed upon him by the Secretary in the enforcement of chapter 5 of this title in accordance with the Secretary's orders and instructions.
+
+(b) Each enumerator or other employee detailed to serve as enumerator shall be charged with the collection in his subdivision of the facts and statistics called for on such schedules as the Secretary determines shall be used by him in connection with any census or survey provided for by chapter 5 of this title.
+
+### §26. Transportation by contract
+
+The Secretary may contract with field employees for the rental and use within the continental limits of the United States of means of transportation, other than motorcycle, automobile, or airplane, and for the rental and use outside of the continental United States of any means of transportation, which means may be owned by the field employee. Such rental contracts shall be made without regard to section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837). The rentals shall be at rates equivalent to the prevailing rental rates of the locality. The rental contracts within the continental United States may be entered into only when the use by the field employee of such other means of transportation is safer, more economical, or more advantageous to the Government than use of his motorcycle, automobile, or airplane in conducting the census.
+
+### CHAPTER 3—COLLECTION AND PUBLICATION OF STATISTICS
+
+#### SUBCHAPTER I—COTTON
+<table border="0">
+    <tr>
+        <td><small>Sec.</small></td>
+    </tr>
+    <tr>
+        <td>41.</td>
+        <td>Collection and publication.</td>
+    </tr>
+    <tr>
+        <td>42.</td>
+        <td>Contents of reports; number of bales of linter; distribution; publication by Department of Agriculture.</td>
+    </tr>
+    <tr>
+        <td>43.</td>
+        <td>Records and reports of cotton ginners.</td>
+    </tr>
+    <tr>
+        <td>44.</td>
+        <td>Foreign cotton statistics.</td>
+    </tr>
+    <tr>
+        <td>45.</td>
+        <td>Simultaneous publication of cotton reports.</td>
+    </tr>
+</table>
+
+#### SUBCHAPTER II—OILSEEDS, NUTS, AND KERNELS; FATS, OILS, AND GREASES
+<table border="0">
+    <tr>
+        <td>61.</td>
+        <td>Collection and publication.</td>
+    </tr>
+    <tr>
+        <td>62.</td>
+        <td>Additional statistics.</td>
+    </tr>
+    <tr>
+        <td>63.</td>
+        <td>Duplicate collection of statistics prohibited; access to available statistics.</td>
+    </tr>
+</table>
+
+#### SUBCHAPTER III—APPAREL AND TEXTILES
+<table border="0">
+    <tr>
+        <td>81.</td>
+        <td>Statistics on apparel and textile industries.</td>
+    </tr>
+</table>
+
+#### SUBCHAPTER IV—QUARTERLY FINANCIAL STATISTICS
+<table border="0">
+    <tr>
+        <td>91.</td>
+        <td>Collection and publication.</td>
+    </tr>
+</table>
+
+#### SUBCHAPTER V—MISCELLANEOUS
+<table border="0">
+    <tr>
+        <td>101.</td>
+        <td>Defective, dependent, and delinquent classes; crime.</td>
+    </tr>
+    <tr>
+        <td>102.</td>
+        <td>Religion.</td>
+    </tr>
+    <tr>
+        <td>103.</td>
+        <td>Designation of reports.</td>
+    </tr>
+</table>
+
+### SUBCHAPTER I—COTTON
+
+### §41. Collection and publication
+
+The Secretary shall collect and publish statistics concerning the—
+
+* (1) amount of cotton ginned;
+
+* (2) quantity of raw cotton consumed in manufacturing establishments of every character;
+
+* (3) quantity of baled cotton on hand;
+
+* (4) number of active consuming cotton spindles;
+
+* (5) number of active spindle hours; and
+
+* (6) quantity of cotton imported and exported, with the country of origin and destination.
+
+### §42. Contents of reports; number of bales of linter; distribution; publication by Department of Agriculture
+
+(a) The statistics of the quantity of cotton ginned shall show the quantity ginned from each crop prior to August 1, September 1, September 15, October 1, October 15, November 1, November 15, December 1, December 15, January 1, January 15, February 1, and March 1; but the Secretary may limit the canvasses of August 1 and September 1 to those sections of the cotton-growing States in which cotton has been ginned.
+
+(b) The quantity of cotton consumed in manufacturing establishments, the quantity of baled cotton on hand, the number of active consuming cotton spindles, the number of active spindle-hours, and the statistics of cotton imported and exported shall relate to each month, and shall be published as soon as possible after the close of the month.
+
+(c) In collecting and publishing statistics of cotton on hand in warehouses and other storage establishments, and of cotton known as the “carry-over” in the United States, the Secretary shall ascertain and publish as a separate item in the report of cotton statistics the number of bales of linters as distinguished from the number of bales of cotton.
+
+(d) The Secretary shall furnish to the Department of Agriculture, immediately prior to the publication of each report of that Department regarding the cotton crop, the latest available statistics hereinbefore mentioned, and the Department of Agriculture shall publish the same in connection with each of its reports concerning cotton.
+
+### §43. Records and reports of cotton ginners
+
+Every cotton ginner shall keep a record of the county or parish in which each bale of cotton ginned by him is grown and report at the completion of the ginning season, but not later than the March canvass, of each year a segregation of the total number of bales ginned by counties or parishes in which grown.
+
+### §44. Foreign cotton statistics
+
+In addition to the information regarding cotton in the United States provided for in this subchapter, the Secretary shall compile, by correspondence or the use of published reports and documents, any available information concerning the production, consumption, and stocks of cotton in foreign countries, and the number of cotton-consuming spindles in such countries. Each report published by the Department of Commerce or agency or bureau thereof regarding cotton shall contain an abstract of the latest available information obtained under the provisions of this section, and the Secretary shall furnish the same to the Department of Agriculture for publication in connection with the reports of that department concerning cotton in the same manner as in the case of statistics relating to the United States.
+
+### §45. Simultaneous publication of cotton reports
+
+The reports of cotton ginned to the dates as of which the Department of Agriculture is also required to issue cotton crop reports shall be issued simultaneously with the cotton crop reports of that department, the two reports to be issued from the same place at 3 o'clock postmeridian on or before the 12th day of the month to which the respective reports relate.
+
+### SUBCHAPTER II—OILSEEDS, NUTS, AND KERNELS; FATS, OILS, AND GREASES
+
+### §61. Collection and publication
+
+(a) The Secretary shall collect, collate, and publish monthly statistics concerning—
+
+* (1) the quantities of—
+
+  * (A) cotton seed, soybeans, peanuts, flaxseed, corn germs, copra, sesame seed, babassu nuts and kernels, and other oilseeds, nuts, and kernels received, crushed, and on hand at oil mills;
+
+  * (B) crude and refined oils, cakes, and meals, and other primary products, by type or kind, of the seeds, nuts, and kernels referred to in clause (A) of this paragraph, manufactured, shipped out, and on hand at oil mills and processing establishments;
+
+  * (C) crude and refined vegetable oils, by type or kind, used by class of product and held by manufacturers of vegetable shortening, margarine, soap, and other principal products using large quantities of vegetable oils;
+
+  * (D) crude and refined vegetable oils, by type or kind, held in warehouses and in transit to consuming establishments; and
+
+* (2) the quantities, by types or kinds, of—
+
+  * (A) animal fats and oils and greases produced;
+
+  * (B) animal fats and oils and greases shipped and held by producers;
+
+  * (C) animal fats and oils and greases, fish and marine mammal oils used by class of product and held by manufacturers of shortening, margarine, soap, and other principal products which require the use of large quantities of animal fats and oils and greases, fish and marine mammal oils;
+
+  * (D) animal fats and oils and greases, fish and marine mammal oils held in warehouses, cold storage, and in transit to consuming establishments.
+
+(b) The Secretary shall not be required to collect, more frequently than he deems necessary to provide reliable statistical reports, information from any person who produces, holds, or consumes fats and oils in inconsequential quantities.
+
+### §62. Additional statistics
+
+This subchapter does not restrict or limit the Secretary in the collection and publication, under the general authority of the Secretary, of such statistics on fats and oils or products thereof not specifically required in this subchapter, as he deems to be in the public interest.
+
+### §63. Duplicate collection of statistics prohibited; access to available statistics
+
+Statistics required under Federal law, as of the effective date of this title, to be collected by any other Federal department or agency in a manner comparable both as to form and period of time to the collection of statistics provided for by this subchapter shall not be collected by the Secretary under the authority of this subchapter. Immediately upon his request, the Secretary shall have access to any such statistics and shall include them in the publication required by this subchapter.
+
+### SUBCHAPTER III—APPAREL AND TEXTILES
+
+### §81. Statistics on apparel and textile industries
+
+The Secretary shall collect and publish quarterly statistics relating to domestic apparel and textile industries.
+
+### SUBCHAPTER IV—QUARTERLY FINANCIAL STATISTICS
+
+### §91. Collection and publication
+
+(a) The Secretary shall collect and publish quarterly financial statistics of business operations, organization, practices, management, and relation to other businesses, including data on sales, expenses, profits, assets, liabilities, stockholders’ equity, and related accounts generally used by businesses in income statements, balance sheets, and other measures of financial condition.
+
+(b) Except to the extent determined otherwise by the Secretary on the basis of changed circumstances, the nature of statistics collected and published under this section, and the manner of the collection and publication of such statistics, shall conform to the quarterly financial reporting program carried out by the Federal Trade Commission before the effective date of this section under section 6(b) of the Federal Trade Commission Act.
+
+(c) For purposes of section 6103(j)(1) of the Internal Revenue Code of 1986, the conducting of the quarterly financial report program under this section shall be considered as the conducting of a related statistical activity authorized by law.
+
+(d)(1) The Secretary shall not select an organization or entity for participation in a survey, if—
+
+* (A) the organization or entity—
+
+  * (i) has assets of less than $50,000,000;
+
+  * (ii) completed participation in a prior survey in the preceding 10-year period, as determined by the Secretary; and
+
+  * (iii) was selected for that prior survey participation after September 30, 1990; or
+
+* (B) the organization or entity—
+
+  * (i) has assets of more than $50,000,000 and less than $100,000,000;
+
+  * (ii) completed participation in a prior survey in the preceding 2-year period, as determined by the Secretary; and
+
+  * (iii) was selected for that prior survey participation after September 30, 1995.
+
+(2)(A) The Secretary shall furnish advice and similar assistance to ease the burden of a small business concern which is attempting to compile and furnish the business information required of organizations and entities participating in the survey.
+
+(B) To facilitate the provision of the assistance under subparagraph (A), the Secretary shall establish a toll-free telephone number.
+
+(C) The Secretary shall expand the use of statistical sampling techniques to select organizations and entities having assets less than $100,000,000 to participate in the survey.
+
+(3) The Secretary may undertake such additional paperwork burden reduction initiatives with respect to the conduct of the survey as may be deemed appropriate by the Secretary.
+
+(4) For purposes of this subsection:
+
+* (A) The term “small business concern” means a business concern that meets the requirements of section 3(a) of the Small Business Act and the regulations promulgated pursuant thereto.
+
+* (B) The term “survey” means the collection of information by the Secretary pursuant to this section for the purpose of preparing the publication entitled “Quarterly Financial Report for Manufacturing, Mining, and Trade Corporations”.
+
+### SUBCHAPTER V—MISCELLANEOUS
+
+### §101. Defective, dependent, and delinquent classes; crime
+
+(a) The Secretary may collect decennially statistics relating—
+
+* (1) to the defective, dependent, and delinquent classes; and
+
+* (2) to crime, including judicial statistics pertaining thereto.
+
+(b) The statistics authorized by subsection (a) of this section shall include information upon the following questions, namely: age, sex, color, nativity, parentage, literacy by race, color, nativity, and parentage, and such other questions relating to such subjects as the Secretary deems proper.
+
+(c) In addition to the decennial collections authorized by subsections (a) and (b) of this section, the Secretary may compile and publish annually statistics relating to crime and to the defective, dependent, and delinquent classes.
+
+### §102. Religion
+
+The Secretary may collect decennially statistics relating to religious bodies.
+
+### §103. Designation of reports
+
+All reports covering any of the statistics collected under the provisions of this subchapter shall be designated as “Special Reports” followed by the name of whatever bureau or agency of the Department of Commerce is designated by the Secretary to collect and compile such statistics.
+
+* * * * * * *
+        
