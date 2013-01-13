@@ -1,5 +1,7 @@
 # ROBERT T. STAFFORD DISASTER RELIEF AND EMERGENCY ASSISTANCE ACT
 
+* * * * * * *
+
 ## TITLE I—FINDING, DECLARATIONS AND DEFINITIONS
 
 * * * * * * *
@@ -14,7 +16,7 @@ As used in this Act—
 
 * (3) “United States” means the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-* (4) “State” means any State of the United States, the District of olumbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+* (4) “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 * (5) “Governor” means the chief executive of any State.
 
@@ -86,9 +88,9 @@ All requests for a declaration by the President that a major disaster exists sha
     
   * (J) provision of rescue, care, shelter, and essential needs—
         
-    * (i) to individuals with household pets and service animals; and
+      * (i) to individuals with household pets and service animals; and
             
-    * (ii) to such pets and animals.
+      * (ii) to such pets and animals.
 
 * (4) CONTRIBUTIONS.—Making contributions to State or local governments or owners or operators of private nonprofit facilities for the purpose of carrying out the provisions of this subsection.
 
@@ -126,21 +128,21 @@ All requests for a declaration by the President that a major disaster exists sha
   
   * (B) on or after December 3, 1993, the applicant for the assistance enters into an agreement with the Administrator that provides assurances that—
   
-    * (i) any property acquired, accepted, or from which a structure will be removed pursuant to the project will be dedicated and maintained in perpetuity for a use that is compatible with open space, recreational, or wetlands management practices;
+      * (i) any property acquired, accepted, or from which a structure will be removed pursuant to the project will be dedicated and maintained in perpetuity for a use that is compatible with open space, recreational, or wetlands management practices;
     
-    * (ii) no new structure will be erected on property acquired, accepted or from which a structure was removed under the acquisition or relocation program other than—
+      * (ii) no new structure will be erected on property acquired, accepted or from which a structure was removed under the acquisition or relocation program other than—
     
-      * (I) a public facility that is open on all sides and functionally related to a designated open space;
+          * (I) a public facility that is open on all sides and functionally related to a designated open space;
       
-      * (II) a rest room; or
+          * (II) a rest room; or
       
-      * (III) a structure that the Administrator approves in writing before the commencement of the construction of the structure; and
+          * (III) a structure that the Administrator approves in writing before the commencement of the construction of the structure; and
     
-    * (iii) after receipt of the assistance, with respect to any property acquired, accepted or from which a structure was removed under the acquisition or relocation program—
+      * (iii) after receipt of the assistance, with respect to any property acquired, accepted or from which a structure was removed under the acquisition or relocation program—
     
-       * (I) no subsequent application for additional disaster assistance for any purpose will be made by the recipient to any Federal entity; and
+           * (I) no subsequent application for additional disaster assistance for any purpose will be made by the recipient to any Federal entity; and
 
-       * (II) no assistance referred to in subclause (I) will be provided to the applicant by any Federal source.
+           * (II) no assistance referred to in subclause (I) will be provided to the applicant by any Federal source.
        
   * (3) STATUTORY CONSTRUCTION.— Nothing in this subsection is intended to alter or otherwise affect an agreement for an acquisition or relocation project carried out pursuant to this section that was in effect on the day before December 3, 1993.
  
@@ -188,25 +190,25 @@ All requests for a declaration by the President that a major disaster exists sha
 
   * (A) FINANCIAL ASSISTANCE.—
 
-    * (i) IN GENERAL.—The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
+      * (i) IN GENERAL.—The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
 
-    * (ii) AMOUNT.—The amount of assistance under clause (i) shall be based on the fair market rent for the accommodation provided plus the cost of any transportation, utility hookups, security deposits,     or unit installation not provided directly by the President.
+      * (ii) AMOUNT.—The amount of assistance under clause (i) shall be based on the fair market rent for the accommodation provided plus the cost of any transportation, utility hookups, security deposits,     or unit installation not provided directly by the President.
 
-      * (B) DIRECT ASSISTANCE.—
+  * (B) DIRECT ASSISTANCE.—
 
-        * (i) IN GENERAL.—The President may provide temporary housing units, acquired by purchase or lease, directly to individuals or households who, because of a lack of available housing resources, would be unable to make use of the assistance provided under subparagraph (A).
+      * (i) IN GENERAL.—The President may provide temporary housing units, acquired by purchase or lease, directly to individuals or households who, because of a lack of available housing resources, would be unable to make use of the assistance provided under subparagraph (A).
 
-        * (ii) PERIOD OF ASSISTANCE.—The President may not provide direct assistance under clause (i) with respect to a major disaster after the end of the 18-month period beginning on the date of the declaration of the major disaster by the President, except that the President may extend that period if the President determines that due to extraordinary circumstances an extension would be in the public interest.
+      * (ii) PERIOD OF ASSISTANCE.—The President may not provide direct assistance under clause (i) with respect to a major disaster after the end of the 18-month period beginning on the date of the declaration of the major disaster by the President, except that the President may extend that period if the President determines that due to extraordinary circumstances an extension would be in the public interest.
 
-        * (iii) COLLECTION OF RENTAL CHARGES.—After the end of the 18-month period referred to in clause (ii), the President may charge fair market rent for each temporary housing unit provided.
+      * (iii) COLLECTION OF RENTAL CHARGES.—After the end of the 18-month period referred to in clause (ii), the President may charge fair market rent for each temporary housing unit provided.
 
 * (2) REPAIRS.—
 
   * (A) IN GENERAL.—The President may provide financial assistance for—
 
-    * (i) the repair of owner-occupied private residences, utilities, and residential infrastructure (such as a private access route) damaged by a major disaster to a safe and sanitary living or functioning condition; and
+      * (i) the repair of owner-occupied private residences, utilities, and residential infrastructure (such as a private access route) damaged by a major disaster to a safe and sanitary living or functioning condition; and
 
-    * (ii) eligible hazard mitigation measures that reduce the likelihood of future damage to such residences, utilities, or infrastructure.
+      * (ii) eligible hazard mitigation measures that reduce the likelihood of future damage to such residences, utilities, or infrastructure.
 
   * (B) RELATIONSHIP TO OTHER ASSISTANCE.—A recipient of assistance provided under this paragraph shall not be required to show that the assistance can be met through other means, except insurance proceeds.
 
@@ -228,11 +230,11 @@ All requests for a declaration by the President that a major disaster exists sha
 
   * (A) IN GENERAL.—Any readily fabricated dwelling provided under this section shall, whenever practicable, be located on a site that—
 
-    * (i) is complete with utilities; 
+      * (i) is complete with utilities; 
     
-    * (ii) meets the physical accessibility requirements for individuals with disabilities; and
+      * (ii) meets the physical accessibility requirements for individuals with disabilities; and
 
-    * (iii) is provided by the State or local government, by the owner of the site, or by the occupant who was displaced by the major disaster.
+      * (iii) is provided by the State or local government, by the owner of the site, or by the occupant who was displaced by the major disaster.
 
   * (B) SITES PROVIDED BY THE PRESIDENT- A readily fabricated dwelling may be located on a site provided by the President if the President determines that such a site would be more economical or accessible.
 
@@ -240,25 +242,25 @@ All requests for a declaration by the President that a major disaster exists sha
 
   * (A) SALE TO OCCUPANTS.—
 
-    * (i) IN GENERAL.—Notwithstanding any other provision of law, a temporary housing unit purchased under this section by the President for the purpose of housing disaster victims may be sold directly to the individual or household who is occupying the unit if the individual or household lacks permanent housing.
+      * (i) IN GENERAL.—Notwithstanding any other provision of law, a temporary housing unit purchased under this section by the President for the purpose of housing disaster victims may be sold directly to the individual or household who is occupying the unit if the individual or household lacks permanent housing.
 
-    * (ii) SALE PRICE.—A sale of a temporary housing unit under clause (i) shall be at a price that is fair and equitable.
+      * (ii) SALE PRICE.—A sale of a temporary housing unit under clause (i) shall be at a price that is fair and equitable.
 
-    * (iii) DEPOSIT OF PROCEEDS.—Notwithstanding any other provision of law, the proceeds of a sale under clause (i) shall be deposited in the appropriate Disaster Relief Fund account.
+      * (iii) DEPOSIT OF PROCEEDS.—Notwithstanding any other provision of law, the proceeds of a sale under clause (i) shall be deposited in the appropriate Disaster Relief Fund account.
 
-    * (iv) HAZARD AND FLOOD INSURANCE.—A sale of a temporary housing unit under clause (i) shall be made on the condition that the individual or household purchasing the housing unit agrees to obtain and maintain hazard and flood insurance on the housing unit.
+      * (iv) HAZARD AND FLOOD INSURANCE.—A sale of a temporary housing unit under clause (i) shall be made on the condition that the individual or household purchasing the housing unit agrees to obtain and maintain hazard and flood insurance on the housing unit.
 
-    * (v) USE OF GSA SERVICES.—The President may use the services of the General Services Administration to accomplish a sale under clause (i).
+      * (v) USE OF GSA SERVICES.—The President may use the services of the General Services Administration to accomplish a sale under clause (i).
 
   * (B) OTHER METHODS OF DISPOSAL.—If not disposed of under subparagraph (A), a temporary housing unit purchased under this section by the President for the purpose of housing disaster victims—
 
-    * (i) may be sold to any person; or
+      * (i) may be sold to any person; or
 
-    * (ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
+      * (ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
 
-      * (I) to comply with the nondiscrimination provisions of section 308; and
+          * (I) to comply with the nondiscrimination provisions of section 308; and
 
-      * (II) to obtain and maintain hazard and flood insurance on the housing unit.
+          * (II) to obtain and maintain hazard and flood insurance on the housing unit.
 
 (e) Financial assistance to address other needs.—
 
@@ -355,8 +357,6 @@ is less than $35,000, the President (on application of the State or local govern
 * (2) impede the restoration or repair of the services described in subsection (a)(1).
 
 (c) Implementation.—In implementing this section, the head of a Federal agency shall follow all applicable Federal laws, regulations, and policies.
-
-* * * * * * *
 
 ## TITLE V — EMERGENCY ASSISTANCE PROGRAMS
 
