@@ -1,3 +1,18 @@
-This repository will hold a number of Markdown files that comprise an updated copy of the public laws of the United States.
+This repository holds a number of Markdown files that comprise a portion of the public laws of the United States.
 
-At the moment, this is very much a work in progress.
+The following parts of the United States Code have been uploaded:
+
+* Title 1 (General Provisions): Complete
+* Title 3 (The President): Complete
+* Title 4 (Flag and Seal, Seat of Government, and the States): Complete
+* Title 9 (Arbitration): Complete
+* Title 13 (Census): Chapters 1 through 3 (sections 1 to 103) complete
+* Title 42 (The Public Health and Welfare): Sections 4016, 5122, 5170, 5170b, 5170c, 5174, 5189, 5189e, 5191
+
+The uploaded public laws reflect the changes that would be made by H.R. 152,
+as passed by the House on 15 January 2013.
+
+This is, obviously, still a work in progress.  Current priorities are:
+
+1. Uploading any laws impacted by pending legislation.
+2. Completing title 13, United States Code.
