@@ -251,7 +251,23 @@ The 15 percent limitation contained in section 322 of the Act of June 30, 1932 (
 
 ### §21. Director of the Census; duties
 
-The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate. The Director shall perform such duties as may be imposed upon him by law, regulations, or orders of the Secretary.
+(a) Appointment.—
+
+* (1) IN GENERAL.—The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation.
+
+* (2) QUALIFICATIONS.—Such appointment shall be made from individuals who have a demonstrated ability in managing large organizations and experience in the collection, analysis, and use of statistical data.
+
+(b) Term of office.—
+
+* (1) IN GENERAL.—The term of office of the Director shall be 5 years, and shall begin on January 1, 2012, and every fifth year thereafter. An individual may not serve more than 2 full terms as Director.
+
+* (2) VACANCIES.—Any individual appointed to fill a vacancy in such position, occurring before the expiration of the term for which such individual's predecessor was appointed, shall be appointed for the remainder of that term. The Director may serve after the end of the Director's term until reappointed or until a successor has been appointed, but in no event longer than 1 year after the end of such term.
+
+* (3) REMOVAL.—An individual serving as Director may be removed from office by the President. The President shall communicate in writing the reasons for any such removal to both Houses of Congress not later than 60 days before the removal.
+
+* (4) PERSONNEL ACTIONS.—Except as provided under paragraph (3), nothing in this subsection shall prohibit a personnel action otherwise authorized by law with respect to the Director of the Census, other than removal.
+
+(c) Duties.—The Director shall perform such duties as may be imposed upon the Director by law, regulations, or orders of the Secretary.
 
 ### §22. Qualifications of permanent personnel
 
