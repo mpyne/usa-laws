@@ -1,0 +1,141 @@
+# SECTION 5 OF THE PROJECT BIOSHIELD ACT OF 2004
+
+### SEC. 5. REPORTS REGARDING AUTHORITIES UNDER THIS ACT.
+
+(a) Secretary of Health and Human Services.—
+
+* (1) Annual reports on particular exercises of authority.—
+
+  * (A) Relevant authorities.—The Secretary of Health and Human Services
+    (referred to in this subsection as the “Secretary”) shall submit reports in
+    accordance with subparagraph (B) regarding the exercise of authority under 
+    the following provisions of law:
+
+     * (i) With respect to section 319F-1 of the Public Health Service Act (as
+     added by section 2 of this Act):
+
+         * (I) Subsection (b)(1) (relating to increased simplified acquisition threshold).
+
+         * (II) Subsection (b)(2) (relating to procedures other than full and open competition).
+
+         * (III) Subsection (c) (relating to expedited peer review procedures).
+
+     * (ii) With respect to section 319F-2 of the Public Health Service Act (as 
+     added by section 3 of this Act):
+
+         * (I) Subsection (c)(7)(C)(iii) (relating to simplified acquisition procedures).
+
+         * (II) Subsection (c)(7)(C)(iv) (relating to procedures other than full and open competition).
+
+         * (III) Subsection (c)(7)(C)(v) (relating to premium provision in multiple-award contracts).
+
+     * (iii) With respect to section 564 of the Federal Food, Drug, and Cosmetic
+     Act (as added by section 4 of this Act):
+
+         * (I) Subsection (a)(1) (relating to emergency uses of certain drugs and devices).
+
+         * (II) Subsection (b)(1) (relating to a declaration of an emergency).
+
+         * (III) Subsection (e) (relating to conditions on authorization).
+
+  * (B) CONTENTS OF REPORTS.—The Secretary shall annually submit to the
+  designated congressional committees a report that summarizes—
+
+     * (i) the particular actions that were taken under the authorities specified
+     in subparagraph (A), including, as applicable, the identification of the threat
+     agent, emergency, or the biomedical countermeasure with respect to which the 
+     authority was used;
+
+     * (ii) the reasons underlying the decision to use such authorities, including,
+     as applicable, the options that were considered and rejected with respect
+     to the use of such authorities;
+
+     * (iii) the number of, nature of, and other information concerning the 
+     persons and entities that received a grant, cooperative agreement, or 
+     contract pursuant to the use of such authorities, and the persons and 
+     entities that were considered and rejected for such a grant, cooperative 
+     agreement, or contract, except that the report need not disclose the 
+     identity of any such person or entity; and
+
+     * (iv) whether, with respect to each procurement that is approved by the 
+     President under section 319F-2(c)(6) of the Public Health Service Act (as
+     added by section 3 of this Act), a contract was entered into within one 
+     year after such approval by the President.
+
+* (2) ANNUAL SUMMARIES REGARDING CERTAIN ACTIVITY.—The Secretary shall annually
+  submit to the designated congressional committees a report that summarizes
+  the activity undertaken pursuant to the following authorities under section
+  319F-1 of the Public Health Service Act (as added by section 2 of this Act):
+
+  * (A) Subsection (b)(3) (relating to increased micropurchase threshold).
+
+  * (B) Subsection (d) (relating to authority for personal services contracts).
+
+  * (C) Subsection (e) (relating to streamlined personnel authority).
+
+  With respect to subparagraph (B), the report shall include a provision
+  specifying, for the one-year period for which the report is submitted, the
+  number of persons who were paid amounts greater than $100,000 and the number
+  of persons who were paid amounts between $50,000 and $100,000.
+
+* (3) REPORT ON ADDITIONAL BARRIERS TO PROCUREMENT OF SECURITY 
+  COUNTERMEASURES.—Not later than one year after the date of the enactment of
+  this Act, the Secretary, in consultation with the Secretary of Homeland 
+  Security, shall report to the designated congressional committees any 
+  potential barriers to the procurement of security countermeasures that have
+  not been addressed by this Act.
+
+(b) GENERAL ACCOUNTING OFFICE REVIEW.—
+
+* (1) IN GENERAL.—Four years after the date of the enactment of this Act, the 
+  Comptroller General of the United States shall initiate a study—
+
+    * (A)(i) to review the Secretary of Health and Human Services' utilization 
+    of the authorities granted under this Act with respect to simplified 
+    acquisition procedures, procedures other than full and open competition, 
+    increased micropurchase thresholds, personal services contracts, 
+    streamlined personnel authority, and the purchase of security 
+    countermeasures under the special reserve fund; and
+
+    * (ii) to make recommendations to improve the utilization or effectiveness 
+    of such authorities in the future;
+
+    * (B)(i) to review and assess the adequacy of the internal controls 
+    instituted by such Secretary with respect to such authorities, where 
+    required by this Act; and
+
+    * (ii) to make recommendations to improve the effectiveness of such 
+    controls;
+
+    * (C)(i) to review such Secretary's utilization of the authority granted under this Act to authorize an emergency use of a biomedical countermeasure, including the means by which the Secretary determines whether and under what conditions any such authorizations should be granted and the benefits and adverse impacts, if any, resulting from the use of such authority; and
+
+    * (ii) to make recommendations to improve the utilization or effectiveness of such authority and to enhance protection of the public health;
+
+    * (D) to identify any purchases or procurements that would not have been made or would have been significantly delayed except for the authorities described in subparagraph (A)(i); and
+
+    * (E)(i) to determine whether and to what extent activities undertaken pursuant to the biomedical countermeasure research and development authorities established in this Act have enhanced the development of biomedical countermeasures affecting national security; and
+
+    * (ii) to make recommendations to improve the ability of the Secretary to carry out these activities in the future.
+
+* (2) ADDITIONAL PROVISIONS REGARDING DETERMINATION ON DEVELOPMENT OF
+  BIOMEDICAL COUNTERMEASURES AFFECTING NATIONAL SECURITY.—In the report under
+  paragraph (1), the determination under subparagraph (E) of such paragraph shall include—
+
+  * (A) the Comptroller General's assessment of the current availability of countermeasures to address threats identified by the Secretary of Homeland Security;
+
+  * (B) the Comptroller General's assessment of the extent to which programs and activities under this Act will reduce any gap between the threat and the availability of countermeasures to an acceptable level of risk; and
+
+  * (C)(i) the Comptroller General's assessment of threats to national security that are posed by technology that will enable, during the 10-year period beginning on the date of the enactment of this Act, the development of antibiotic resistant, mutated, or bioengineered strains of biological agents; and
+
+  * (ii) recommendations on short-term and long-term governmental strategies for addressing such threats, including recommendations for Federal policies regarding research priorities, the development of countermeasures, and investments in technology.
+
+* (3) REPORT.—A report providing the results of the study under paragraph (1) shall be submitted to the designated congressional committees not later than five years after the date of the enactment of this Act.
+
+(c) REPORT REGARDING BIOCONTAINMENT FACILITIES.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Homeland Security and the Secretary of Health and Human Services shall jointly report to the designated congressional committees whether there is a lack of adequate large-scale biocontainment facilities necessary for the testing of security countermeasures in accordance with Food and Drug Administration requirements.
+
+(d) DESIGNATED CONGRESSIONAL COMMITTEES.—For purposes of this section, the term
+“designated congressional committees” means the following committees of the Congress:
+
+* (1) In the House of Representatives: the Committee on Energy and Commerce, the Committee on Appropriations, the Committee on Government Reform, and the Select Committee on Homeland Security (or any successor to the Select Committee).
+
+* (2) In the Senate: the appropriate committees.
